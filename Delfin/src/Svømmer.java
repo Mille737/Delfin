@@ -2,6 +2,7 @@ public class Svømmer {
 
     public String name;
     public int age;
+    protected String sejt;
     public boolean activeMember;
     public String membershipType;
 
