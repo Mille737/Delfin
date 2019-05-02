@@ -1,9 +1,10 @@
-public class Main {
+public class Main
+{
 
-    public static void main(String[] args) {
-
-        Svømmer swimmer1 = new Svømmer();
-        swimmer1.setInfo();
+    public static void main(String[] args)
+    {
+        Main main = new Main();
+        main.Run();
     }
 
     public void Run()
