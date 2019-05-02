@@ -6,7 +6,7 @@ public class Svømmer {
     public String membershipType;
 
     public void setInfo() {
-        name = "Christian";
+        name = "Nadia";
         age = 20;
         activeMember = true;
         membershipType = "Motionist";
