@@ -5,4 +5,9 @@ public class Main {
         Svømmer swimmer1 = new Svømmer();
         swimmer1.setInfo();
     }
+
+    public void Run()
+    {
+
+    }
 }
