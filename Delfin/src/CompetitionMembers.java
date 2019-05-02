@@ -1,4 +1,4 @@
-public class CompetitionMembers extends Members
+public class CompetitionMembers
 {
     private String team;
     private String disciplines;

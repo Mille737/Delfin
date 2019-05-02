@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class Members {
 
     private String name;
@@ -7,6 +9,24 @@ public class Members {
     private int cpr;
     private int price;
     private boolean isPaid;
+
+    Scanner sc = new Scanner(System.in);
+
+
+    public Members(String name, int age, boolean aktivitetsStatus, String engagement, int cpr, int price, boolean isPaid)
+    {
+        this.name = name;
+        this.age = age;
+        this.aktivitetsStatus = aktivitetsStatus;
+        this.engagement = engagement;
+        this.cpr = cpr;
+        this.price = price;
+        this.isPaid = isPaid;
+    }
+    public Members()
+    {
+
+    }
 
 
 
@@ -28,6 +48,7 @@ public class Members {
     public void setAge(int age)
     {
         this.age = age;
+        age = sc.nextInt();
     }
 
     public boolean isAktivitetsStatus()
