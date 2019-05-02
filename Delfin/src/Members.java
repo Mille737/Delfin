@@ -8,8 +8,6 @@ public class Members {
     private int price;
     private boolean isPaid;
 
-
-
     public String getName()
     {
         return name;
