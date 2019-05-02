@@ -7,7 +7,7 @@ public class Svømmer {
 
     public void setInfo() {
         name = "Christian";
-        age = 23;
+        age = 20;
         activeMember = true;
         membershipType = "Motionist";
         System.out.println("Svømmer navn: " + name);
