@@ -4,7 +4,7 @@ public class Main
 
     public static void main(String[] args)
     {
-        System.out.println("Velkommen");
+        System.out.println("Hej og velkommen");
 
         Main main = new Main();
         main.Run();
