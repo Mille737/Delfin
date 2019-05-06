@@ -57,7 +57,11 @@ public class FileIn
 
     public void viewSwimmer()
     {
+
         try {
+            FileWriter fw = new FileWriter(filepath, true);
+            BufferedWriter bw = new BufferedWriter(fw);
+
             List<Members> members = new ArrayList<>();
             BufferedReader reader = new BufferedReader(new FileReader(filepath));
             String line;
@@ -76,11 +80,19 @@ public class FileIn
 
             String søgning = sc.next();
 
-            for(Members member: members){
-                if(member.getName().equalsIgnoreCase(søgning)){
+            for(Members member: members) {
+                if (member.getName().equalsIgnoreCase(søgning)) {
                     System.out.println(member);
+
                 }
-            }
+                System.out.println("Tryk 1 for opdatere svømmer eller 2 for slet svømmer.");
+                int choice = sc.nextInt();
+                if (choice == 1) {
+
+                } else {
+                    members.remove(0);
+                }
+                }
 
         } catch(Exception e){System.out.println(e);}
 
