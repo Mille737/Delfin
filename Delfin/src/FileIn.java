@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class FileIn
 {
-    private static final String filepath = "/Users/robinzernickov/Documents/GitHub/Delfin/Delfin/src/Members.txt";
+    private static final String filepath = "C:\\Users\\mille\\Documents\\GitHub\\Delfin\\Delfin\\src\\Members.txt";
     Scanner sc = new Scanner(System.in);
 
     public void createSwimmer()
