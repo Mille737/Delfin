@@ -1,1 +1,2 @@
 Oldrup	23	true	Konkurrence	1928572833	100	true
+Nicolaj Spiegelhauer	23	true	passiv	20896	500	true

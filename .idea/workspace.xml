@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e05921e4-a993-4caa-ae29-8ff4d278453e" name="Default Changelist" comment="" />
+    <list default="true" id="e05921e4-a993-4caa-ae29-8ff4d278453e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delfin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Delfin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delfin/src/FileIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/Delfin/src/FileIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Delfin/src/Members.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Delfin/src/Members.txt" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Delfin/src/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+            <state relative-caret-position="105">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -24,28 +29,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state>
               <caret column="31" selection-start-column="31" selection-end-column="31" />
-              <folding>
-                <element signature="e#233#234#0" expanded="true" />
-                <element signature="e#260#261#0" expanded="true" />
-                <element signature="e#300#301#0" expanded="true" />
-                <element signature="e#332#333#0" expanded="true" />
-                <element signature="e#380#381#0" expanded="true" />
-                <element signature="e#414#415#0" expanded="true" />
-                <element signature="e#468#469#0" expanded="true" />
-                <element signature="e#514#515#0" expanded="true" />
-                <element signature="e#564#565#0" expanded="true" />
-                <element signature="e#603#604#0" expanded="true" />
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#773#774#0" expanded="true" />
-                <element signature="e#815#816#0" expanded="true" />
-                <element signature="e#882#883#0" expanded="true" />
-                <element signature="e#944#945#0" expanded="true" />
-                <element signature="e#986#987#0" expanded="true" />
-                <element signature="e#1014#1015#0" expanded="true" />
-                <element signature="e#1056#1057#0" expanded="true" />
-                <element signature="e#1090#1091#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -53,24 +36,12 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Delfin/src/Subscription.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
+            <state relative-caret-position="150">
               <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
               <folding>
-                <element signature="e#174#175#0" expanded="true" />
-                <element signature="e#208#209#0" expanded="true" />
-                <element signature="e#305#306#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#384#385#0" expanded="true" />
-                <element signature="e#435#436#0" expanded="true" />
-                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
                 <element signature="e#526#527#0" expanded="true" />
                 <element signature="e#560#561#0" expanded="true" />
-                <element signature="e#611#612#0" expanded="true" />
-                <element signature="e#657#658#0" expanded="true" />
-                <element signature="e#689#690#0" expanded="true" />
-                <element signature="e#720#721#0" expanded="true" />
-                <element signature="e#765#766#0" expanded="true" />
-                <element signature="e#805#806#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,8 +50,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Delfin/src/FileIn.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1000">
-              <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+            <state relative-caret-position="465">
+              <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -113,8 +84,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Delfin/src/Login.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
+            <state relative-caret-position="45">
+              <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -131,20 +102,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Delfin/src/Members.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-              <folding>
-                <element signature="e#244#245#0" expanded="true" />
-                <element signature="e#271#272#0" expanded="true" />
-                <element signature="e#315#316#0" expanded="true" />
-                <element signature="e#347#348#0" expanded="true" />
-                <element signature="e#378#379#0" expanded="true" />
-                <element signature="e#404#405#0" expanded="true" />
-                <element signature="e#443#444#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#630#631#0" expanded="true" />
-                <element signature="e#686#687#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="435">
+              <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -187,10 +146,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="y" value="23" />
-    <option name="width" value="1440" />
-    <option name="height" value="873" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="24" />
+    <option name="width" value="80" />
+    <option name="height" value="22" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -198,7 +157,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -221,12 +179,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556844415243" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557130681274" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -274,27 +233,28 @@
       <updated>1556786141503</updated>
       <workItem from="1556786142903" duration="1044000" />
       <workItem from="1556792873099" duration="1671000" />
+      <workItem from="1556871456743" duration="1803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6232000" />
+    <option name="totallyTimeSpent" value="8035000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1695279" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Inspection Results" weight="0.32891566" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32891566" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3277849" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -304,6 +264,7 @@
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Terminal" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection Results" order="12" weight="0.32891566" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -354,30 +315,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/Subscription.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-          <folding>
-            <element signature="e#174#175#0" expanded="true" />
-            <element signature="e#208#209#0" expanded="true" />
-            <element signature="e#305#306#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#384#385#0" expanded="true" />
-            <element signature="e#435#436#0" expanded="true" />
-            <element signature="e#481#482#0" expanded="true" />
-            <element signature="e#526#527#0" expanded="true" />
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#611#612#0" expanded="true" />
-            <element signature="e#657#658#0" expanded="true" />
-            <element signature="e#689#690#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#765#766#0" expanded="true" />
-            <element signature="e#805#806#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Delfin/src/Discipline.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -385,46 +322,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/CompetitionMembers.java">
+    <entry file="file://$PROJECT_DIR$/Delfin/src/Members.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="31" selection-start-column="31" selection-end-column="31" />
-          <folding>
-            <element signature="e#233#234#0" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#300#301#0" expanded="true" />
-            <element signature="e#332#333#0" expanded="true" />
-            <element signature="e#380#381#0" expanded="true" />
-            <element signature="e#414#415#0" expanded="true" />
-            <element signature="e#468#469#0" expanded="true" />
-            <element signature="e#514#515#0" expanded="true" />
-            <element signature="e#564#565#0" expanded="true" />
-            <element signature="e#603#604#0" expanded="true" />
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#720#721#0" expanded="true" />
-            <element signature="e#773#774#0" expanded="true" />
-            <element signature="e#815#816#0" expanded="true" />
-            <element signature="e#882#883#0" expanded="true" />
-            <element signature="e#944#945#0" expanded="true" />
-            <element signature="e#986#987#0" expanded="true" />
-            <element signature="e#1014#1015#0" expanded="true" />
-            <element signature="e#1056#1057#0" expanded="true" />
-            <element signature="e#1090#1091#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/Login.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="12" selection-start-line="25" selection-start-column="12" selection-end-line="25" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/ILogin.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="17" selection-start-column="17" selection-end-column="17" />
+          <caret column="31" selection-start-column="20" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -437,27 +338,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Delfin/src/Members.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#244#245#0" expanded="true" />
-            <element signature="e#271#272#0" expanded="true" />
-            <element signature="e#315#316#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-            <element signature="e#378#379#0" expanded="true" />
-            <element signature="e#404#405#0" expanded="true" />
-            <element signature="e#443#444#0" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-            <element signature="e#686#687#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="435">
+          <caret line="32" column="36" selection-start-line="32" selection-start-column="36" selection-end-line="32" selection-end-column="36" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/Main.java">
+    <entry file="file://$PROJECT_DIR$/Delfin/src/ILogin.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        <state>
+          <caret column="17" selection-start-column="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Delfin/src/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
         </state>
       </provider>
     </entry>
@@ -472,17 +368,36 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Delfin/src/Members.txt">
+    <entry file="file://$PROJECT_DIR$/Delfin/src/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Delfin/src/Subscription.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="13" column="5" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#560#561#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Delfin/src/CompetitionMembers.java">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="31" selection-start-column="20" selection-end-column="31" />
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Delfin/src/FileIn.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1000">
-          <caret line="67" column="52" selection-start-line="67" selection-start-column="52" selection-end-line="67" selection-end-column="52" />
+        <state relative-caret-position="465">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
