@@ -1,1 +1,14 @@
-Oldrup	23	true	Konkurrence	1928572833	100	true
+Robin	21	aktiv	senior	295837-3827	1600kr	Ja
+Mogens	12	Aktiv	Senior	295827-1827	1600kr	Ja
+Birger	75	Aktiv	senior	994867-2837	1600kr	Ja
+Hansen	62	aktiv	senior	928577-3825	1600kr	ja
+Jørgen	69	aktiv	senior	928573-2845	1600kr	ja
+Nejolai	23	passiv	senior	928577-2958	1600kr	ja
+Johnny	41	passiv	senior	938771-2948	500kr	ja
+lil-Joe	12	aktiv	junior	291827-2938	1000kr	ja
+Steffen	64	aktiv	senior	928577-3855	1600kr	ja
+Madsen	60	aktiv	senior	295837-1928	1200kr	ja
+madsen	65	aktiv	senior	201928-2948	1600kr	ja
+Madsen	60	aktiv	senior	291827-2948	1600kr	ja
+Robin	59	aktiv	senior	291858-2938	1200kr	ja
+Oldrup	99	aktiv	senior	291827-2948	1200kr	ja

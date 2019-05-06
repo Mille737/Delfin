@@ -96,6 +96,6 @@ public class Members {
     }
 
     public String toString(){
-        return name + "\t" + age + "\t" + aktivitetsStatus + "\t" + engagement + "\t" + cpr + "\t"+ price + "\t" + isPaid;
+        return name + "\t" + age + "\t" + aktivitetsStatus + "\t" + engagement + "\t" + cpr + "\t"+ price + "\t" + isPaid + "\n";
     }
 }
