@@ -15,5 +15,7 @@ public class Main
         FileIn filein = new FileIn();
 
         filein.createSwimmer();
+
+        filein.viewSwimmer();
     }
 }

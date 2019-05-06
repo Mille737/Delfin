@@ -2,14 +2,14 @@
 public class Members {
 
     private String name;
-    private int age;
-    private boolean aktivitetsStatus;
+    private String age;
+    private String aktivitetsStatus;
     private String engagement;
-    private int cpr;
-    private int price;
-    private boolean isPaid;
+    private String cpr;
+    private String price;
+    private String isPaid;
 
-    public Members(String name, int age, boolean aktivitetsStatus, String engagement, int cpr, int price, boolean isPaid)
+    public Members(String name, String age, String aktivitetsStatus, String engagement, String cpr, String price, String isPaid)
     {
         this.name = name;
         this.age = age;
@@ -35,22 +35,22 @@ public class Members {
         this.name = name;
     }
 
-    public int getAge()
+    public String getAge()
     {
         return age;
     }
 
-    public void setAge(int age)
+    public void setAge(String age)
     {
         this.age = age;
     }
 
-    public boolean isAktivitetsStatus()
+    public String isAktivitetsStatus()
     {
         return aktivitetsStatus;
     }
 
-    public void setAktivitetsStatus(boolean aktivitetsStatus)
+    public void setAktivitetsStatus(String aktivitetsStatus)
     {
         this.aktivitetsStatus = aktivitetsStatus;
     }
@@ -65,33 +65,37 @@ public class Members {
         this.engagement = engagement;
     }
 
-    public int getCpr()
+    public String getCpr()
     {
         return cpr;
     }
 
-    public void setCpr(int cpr)
+    public void setCpr(String cpr)
     {
         this.cpr = cpr;
     }
 
-    public int getPrice()
+    public String getPrice()
     {
         return price;
     }
 
-    public void setPrice(int price)
+    public void setPrice(String price)
     {
         this.price = price;
     }
 
-    public boolean isPaid()
+    public String isPaid()
     {
         return isPaid;
     }
 
-    public void setPaid(boolean paid)
+    public void setPaid(String paid)
     {
         isPaid = paid;
+    }
+
+    public String toString(){
+        return name + "\t" + age + "\t" + aktivitetsStatus + "\t" + engagement + "\t" + cpr + "\t"+ price + "\t" + isPaid;
     }
 }
