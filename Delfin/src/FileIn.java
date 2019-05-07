@@ -1,13 +1,12 @@
 import java.io.*;
 import java.lang.reflect.Array;
 import java.lang.reflect.Member;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.Scanner;
+import java.util.*;
+import java.util.concurrent.CopyOnWriteArrayList;
 
 public class FileIn
 {
-    private static final String filepath = "/Users/robinzernickov/Documents/GitHub/Delfin/Delfin/src/Members.txt";
+    private static final String filepath = "C:\\Users\\mille\\Documents\\GitHub\\Delfin\\Delfin\\src\\Members.txt";
     Scanner sc = new Scanner(System.in);
 
     public void createSwimmer()
@@ -84,7 +83,7 @@ public class FileIn
     {
 
         try {
-            List<Members> members = new ArrayList<>();
+            CopyOnWriteArrayList<Members> members = new CopyOnWriteArrayList<>();
             BufferedReader reader = new BufferedReader(new FileReader(filepath));
             String line;
 
@@ -153,6 +152,12 @@ public class FileIn
                     }
                     else if (valg == 2)
                     {
+                       if (member.getName().equalsIgnoreCase(søgning)) {
+                           System.out.println(member);
+                           System.out.println(members.indexOf(member));
+                           int sletValg = sc.nextInt();
+                           members.remove(sletValg);
+                       }
 
                     }
 
@@ -167,6 +172,7 @@ public class FileIn
                 writer.write(member.toString());
             }
             writer.close();
+
 
         } catch(Exception e){System.out.println(e);}
 
