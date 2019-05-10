@@ -1,0 +1,6 @@
+Robin	21	aktiv	Hold: Senior	291857-3857	1600kr	ja	Freestyle	00.01.28	00:02:28	Tim Madsen
+Nicolaj	24	aktiv	Hold: Senior	025838-2938	1600kr	ja	Freestyle	00.02.28	00:02:59	Tim Madsen
+Nadia	23	akti	Hold: Senior	291857-3827	1600kr	ja	Freestyle	00.03.39	00:04:01	Tim Madsen
+Christian	17	aktiv	Hold: Junior	928577-2844	1000kr	ja	Freestyle	00.03.23	00:02:23	Kim Hansen
+Peter	45	aktiv	Hold: Senior	928177-8295	1600kr	ja	Freestyle	00.05.91	00:04:12	Tim Madsen
+Tom	27	aktiv	Hold: Senior	928377-8293	1600kr	nej	Freestyle	00.02.23	00:01:24	Tim Madsen

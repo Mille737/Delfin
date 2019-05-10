@@ -1,0 +1,8 @@
+Robin	17	aktiv	Junior	295837-3827	1000kr	Ja
+Mogens	12	Aktiv	Senior	295827-1827	1600kr	Ja
+Birger	75	Aktiv	senior	994867-2837	1600kr	Ja
+Hansen	62	aktiv	senior	928577-3825	1600kr	ja
+Jørgen	69	aktiv	senior	928573-2845	1600kr	ja
+Nejolai	23	passiv	senior	928577-2958	1600kr	ja
+Oldrup	23	aktiv	Senior	291827-2948	1600kr	ja
+Nadia	25	aktiv	Senior	928177-2885	1600kr	nej
