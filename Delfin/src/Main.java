@@ -8,6 +8,7 @@ public class Main
 
         Main main = new Main();
         main.Run();
+
     }
 
     public void Run()
@@ -16,6 +17,10 @@ public class Main
 
         filein.createSwimmer();
 
-        filein.viewSwimmer();
+        //filein.viewSwimmer();
+        MembersHandler m = new MembersHandler();
+        m.addMember();
+
+
     }
 }

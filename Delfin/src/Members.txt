@@ -1,5 +1,5 @@
 Oldrup	23	true	Konkurrence	1928572833	100	true
-
-Nicolaj Spiegelhauer	23	true	passiv	20896	500	true
+Nicolaj Spiegelhauer	24	true	passiv	20896	500	true
 camille	23	true	motionist	110196	1000	true
 Christian	20	true	motionist	123456	1000	true
+hej	56	true	konkurrence	3456687	564	ja

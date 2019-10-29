@@ -2,14 +2,14 @@
 public class Members {
 
     private String name;
-    private String age;
+    private int age;
     private String aktivitetsStatus;
     private String engagement;
     private String cpr;
     private String price;
     private String isPaid;
 
-    public Members(String name, String age, String aktivitetsStatus, String engagement, String cpr, String price, String isPaid)
+    public Members(String name, int age, String aktivitetsStatus, String engagement, String cpr, String price, String isPaid)
     {
         this.name = name;
         this.age = age;
@@ -35,12 +35,12 @@ public class Members {
         this.name = name;
     }
 
-    public String getAge()
+    public int getAge()
     {
         return age;
     }
 
-    public void setAge(String age)
+    public void setAge(int age)
     {
         this.age = age;
     }

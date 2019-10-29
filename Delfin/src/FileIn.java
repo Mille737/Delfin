@@ -8,7 +8,7 @@ import java.util.Scanner;
 public class FileIn
 {
 
-    private static final String filepath = "/Users/NicSpiegelhauer/Documents/GitHub/Delfin/Delfin/src/Members.txt";
+    private static final String filepath = "/Users/nadiahansen/Documents/GitHub/Delfin/Delfin/src/Members.txt";
     Scanner sc = new Scanner(System.in);
 
     public void createSwimmer()
@@ -23,7 +23,7 @@ public class FileIn
             String name = sc.next();
 
             System.out.println("Alder:");
-            String age = sc.next();
+            int age = sc.nextInt();
 
             System.out.println("Aktivitets Status:");
             String aktivitetsStatus = sc.next();
@@ -56,7 +56,7 @@ public class FileIn
 
     }
 
-    public void viewSwimmer()
+    /*public void viewSwimmer()
     {
         try {
             List<Members> members = new ArrayList<>();
@@ -65,7 +65,7 @@ public class FileIn
 
 
             while ((line = reader.readLine()) != null) {
-                String[] data = line.split("\t");
+                Members[] data = line.split("\t");
                 Members m = new Members(data[0], data[1], data[2], data[3], data[4], data[5], data[6]);
                 members.add(m);
             }
@@ -87,7 +87,7 @@ public class FileIn
 
 
     }
-
+*/
     public void updateSwimmer()
     {
 
